@@ -6,7 +6,7 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      background: #ffeef5; /* нежно-розовый фон */
+      background: #ffeef5; 
       color: #333;
       margin: 0;
       padding: 20px;
@@ -19,8 +19,7 @@
     p, li, td {
       font-size: 16px;
     }
-
-    /* Ссылки */
+    
     a {
       color: #c2185b;
       text-decoration: none;
@@ -29,14 +28,14 @@
       text-decoration: underline;
     }
 
-    /* Фото */
+   
     img {
       border-radius: 12px;
       border: 2px solid #f8bbd0;
       box-shadow: 0 5px 15px rgba(0,0,0,0.1);
     }
 
-    /* Кнопка */
+    
     button, input[type="submit"] {
       background: #f48fb1;
       border: none;
@@ -50,7 +49,7 @@
       background: #ec407a;
     }
 
-    /* Таблица */
+    
     table {
       border-collapse: collapse;
       width: 100%;
@@ -70,7 +69,7 @@
       background: #fff0f5;
     }
 
-    /* Форма */
+    
     input[type="text"], input[type="email"], input[type="color"] {
       padding: 8px;
       margin: 5px 0;
@@ -110,9 +109,7 @@
   </ul>
 
   <h3>My photo</h3>
-
- <img src="C:\Users\aospa\Downloads\my photo.jpg" alt="My photo" width="200">
-
+  <img src="C:\Users\aospa\Downloads\my photo.jpg" alt="My photo" width="200">
 
   <h3>Button</h3>
   <button>Click Me</button>
